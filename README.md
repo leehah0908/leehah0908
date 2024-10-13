@@ -17,7 +17,6 @@
 </p>
 
 ##### 🌕 Tech Stack
-* * *
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
@@ -32,6 +31,7 @@
 <br/>
 
 ### 📫 Contact Me
+* * *
 <p>
     <a href="https://leehah0908.tistory.com/" target="_blank">
         <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
