@@ -1,4 +1,5 @@
 ### 👋 About Me
+* * *
 <p>
    &nbsp;저는 데이터 엔지니어를 목표로 끊임없는 도전을 하고 있습니다. 데이터 분석으로 입문을 해서 현재는 데이터 엔지니어링 및 백엔드 기술을 공부하고 있습니다.
    <br>
@@ -7,6 +8,7 @@
 <br/>
 
 ### 🔨 Skills
+* * *
 ##### 🌑 Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -15,6 +17,7 @@
 </p>
 
 ##### 🌕 Tech Stack
+* * *
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
