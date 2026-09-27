@@ -1,6 +1,6 @@
 <div align=center>
 
-### 👋 About Me
+### About Me
 
 ---
 
@@ -13,7 +13,7 @@
 </p>
 <br/>
 
-### 📫 Contact Me
+### Contact Me
 
 ---
 
