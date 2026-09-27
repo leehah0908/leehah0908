@@ -1,9 +1,6 @@
 <div align=center>
 
 ### About Me
-
----
-
 <p>
    ⛺&nbsp;저는 <b>데이터 엔지니어</b>를 목표로 끊임없이 <b>도전</b>하며 <b>성장</b>하고 있습니다.
    <br>
@@ -14,9 +11,6 @@
 <br/>
 
 ### Contact Me
-
----
-
 <p>
     <a href="https://leehah0908.tistory.com/" target="_blank">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
